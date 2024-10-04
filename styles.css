@@ -1,0 +1,14 @@
+body{
+     color:white; /*cor-da-fonte:branco;*/
+     background-cor:black;/*cor-de-fundo:preto*/
+marguin:0px;/*margem-externa-elemento:0pixels*/
+font-family:'Chakra Petch';*/tipo-de-fonte*/
+margin-bottom:100px;/*margin-externa-de-baixo*/
+}
+
+header{
+    border-bottom:solid 2px rgd(42, 122, 228);
+    padding:20px:/*espaço-interno-do-elemento:20pixels*/
+font-size: 32px:/*tamanho da fonte:32pixels*/
+color:rgb(42,122,228);/*cor-da-fonte-texto:cor-padrão-rgb*/
+}
